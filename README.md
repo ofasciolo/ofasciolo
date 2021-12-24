@@ -15,7 +15,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=A6120D)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
