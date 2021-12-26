@@ -6,7 +6,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying System Engineering at the National Technology University.\
 🌱 &nbsp;I'm on track for learning more about Software Security, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Digital Painting and Makeup as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I pursue Digital Painting and Makeup as hobbies.\
 ✉️ &nbsp;You can contact me via email at ornella_sofia@hotmail.com! I'll try to respond as soon as I can.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
